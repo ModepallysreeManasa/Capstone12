@@ -12,7 +12,7 @@
 <title>Insert title here</title>
 </head>
 <body>
-<div class="jumbotron"><h1>Welcome to Job Portal</h1>
+<div class="jumbotron"><h1>Welcome to JobPortal</h1>
 <p>Login to Continue</p>
 </div>
 <div class="jumbotron">
