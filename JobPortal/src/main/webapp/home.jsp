@@ -12,7 +12,7 @@
 <title>Capstone</title>
 </head>
 <body>
-<div class="jumbotron"><h1>JobPortal</h1>
+<div class="jumbotron"><h1> Welccome to JobPortal</h1>
 <p>Login to Continue</p>
 </div>
 <div class="jumbotron">
